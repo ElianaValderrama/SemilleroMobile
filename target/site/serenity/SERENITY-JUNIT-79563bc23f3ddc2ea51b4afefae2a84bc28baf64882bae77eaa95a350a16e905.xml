@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Busqueda de contenido en la app de Shein" skipped="0" tests="1" time="34.62" timestamp="2022-07-03 02:05:55"><testcase name="Busqueda exitosa"><failure message="&#10;Expected: an element that is visible&#10;     but: no matching element found by xpath: //android.widget.TextView[@content-desc='Precio $4.167']" type="java.lang.AssertionError">
+Expected: an element that is visible
+     but: no matching element found by xpath: //android.widget.TextView[@content-desc='Precio $4.167']</failure><system-err>
+Expected: an element that is visible
+     but: no matching element found by xpath: //android.widget.TextView[@content-desc='Precio $4.167']&#13;
+com.zzkko.tasks.buscarHome.performAs(buscarHome.java:28)&#13;
+com.zzkko.stepDefinitions.buscarStepDefinitions.deseeVerProductos(buscarStepDefinitions.java:28)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
